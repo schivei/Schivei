@@ -10,5 +10,5 @@
 - 🔭 I’m currently working at @clinicorp
 - 👯 I’m looking to collaborate on @dgraph, @Quero-Freela
 - 💬 Ask me about @dotnet, @csharp, @php, @javascript, @html, @blazor, @golang
-- 📫 How to reach me: [http://elton.schivei.nom.br](http://elton.schivei.nom.br)
+- 📫 How to reach me: [https://elton.schivei.nom.br](https://elton.schivei.nom.br)
 - 😄 Pronouns: ʃive (derived from the Polish word siwy)
